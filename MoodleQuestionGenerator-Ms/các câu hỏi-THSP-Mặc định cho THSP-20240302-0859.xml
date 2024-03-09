@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Mặc định cho THSP</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text>Danh mục mặc định cho các câu hỏi được chia sẻ trong bối cảnh 'THSP'.</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 23758  -->
+  <question type="multichoice">
+    <name>
+      <text>Câu 01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Lưới điện quốc gia có chức năng:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Câu trả lời của bạn đúng</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Câu trả lời của bạn sai.</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Truyền tải và phân phối điện năng từ các nhà máy phát điện đến nơi tiêu thụ.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Gồm: các đường dây dẫn, các trạm điện liên kết lại.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Làm tăng áp</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hạ áp</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 23759  -->
+  <question type="multichoice">
+    <name>
+      <text>Câu 02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p style="text-align:justify"><span style="font-size:14pt">Một hạt </span><span style="font-size:14pt"><span style="">a</span></span><span style="font-size:14pt"> (điện tích 3,2.10</span><span style="font-size:14pt"><sup>-19 </sup></span><span style="font-size:14pt">C) bay với vận tốc 10</span><span style="font-size:14pt"><sup>7 </sup></span><span style="font-size:14pt">m/s theo phương vuông góc với các đường s</span><span style="font-size:14pt">ức</span><span style="font-size:14pt"> từ của từ trường đều có cảm ứng từ B = 1,8 T. Lực Lorenxơ tác dụng lên hạt là</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Câu trả lời của bạn đúng</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Câu trả lời của bạn sai.</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span style="font-size:14pt">5,76.10</span><span style="font-size:14pt"><sup>-12 </sup></span><span style="font-size:14pt">N.   </span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span style="font-size:14pt">57,6.10</span><span style="font-size:14pt"><sup>-12 </sup></span><span style="font-size:14pt">N.</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span style="font-size:14pt">0,56.10</span><span style="font-size:14pt"><sup>-12 </sup></span><span style="font-size:14pt">N.  </span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span style="font-size:14pt">56,25.10</span><span style="font-size:14pt"><sup>-12 </sup></span><span style="font-size:14pt">N.</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

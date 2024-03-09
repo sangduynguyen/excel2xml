@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<quiz>
+  <question type="multichoice">
+    <shuffleanswers>true</shuffleanswers>
+    <idnumber/>
+    <hidden>0</hidden>
+    <name>
+      <text>Câu 1. Hội nghị Yalta (2/1945) diễn ra khi cuộc Chiến tranh thế giới thứ hai</text>
+    </name>
+    <questiontext>
+      <text>Multiple Choice</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <single>true</single>
+    <answernumbering>ABC</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback>
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <incorrectfeedback>
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0">
+      <text>A. Đã hoàn toàn kết thúc.</text>
+    </answer>
+    <answer fraction="100">
+      <text>B. Bước vào giai đoạn kết thúc.</text>
+    </answer>
+    <answer fraction="0">
+      <text>C. Đang diễn ra vô cùng ác liệt.</text>
+    </answer>
+    <answer fraction="0">
+      <text>D. Bùng nổ và ngày càng lan rộng.</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <shuffleanswers>true</shuffleanswers>
+    <idnumber/>
+    <hidden>0</hidden>
+    <name>
+      <text>Câu 2. Ba cường quốc tham dự Hội nghị Yalta là</text>
+    </name>
+    <questiontext>
+      <text>Multiple Choice</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <single>true</single>
+    <answernumbering>ABC</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback>
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <incorrectfeedback>
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0">
+      <text>A. Anh, pháp, mỹ.</text>
+    </answer>
+    <answer fraction="100">
+      <text>B. Đức, italia, nhật</text>
+    </answer>
+    <answer fraction="0">
+      <text>C. Anh, pháp, liên xô</text>
+    </answer>
+    <answer fraction="0">
+      <text>D. Liên xô, mỹ, anh</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <shuffleanswers>true</shuffleanswers>
+    <idnumber/>
+    <hidden>0</hidden>
+    <name>
+      <text>Câu 3. Sau Chiến tranh thế giới thứ hai, một trật tự thế giới mới được xác lập gọi là</text>
+    </name>
+    <questiontext>
+      <text>Multiple Choice</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <single>true</single>
+    <answernumbering>ABC</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback>
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <incorrectfeedback>
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0">
+      <text>A. Trật tự thế giới versailles - washington.</text>
+    </answer>
+    <answer fraction="0">
+      <text>B. Trật tự thế giới đa cực nhiều trung tâm.</text>
+    </answer>
+    <answer fraction="100">
+      <text>C. Trật tự thế giới hai cực yalta.</text>
+    </answer>
+    <answer fraction="0">
+      <text>D. Trật tự thế giới đơn cực.</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <shuffleanswers>true</shuffleanswers>
+    <idnumber/>
+    <hidden>0</hidden>
+    <name>
+      <text>Câu 4. Trật tự thế giới hai cực Yalta bị chi phối bởi hai cường quốc</text>
+    </name>
+    <questiontext>
+      <text>Multiple Choice</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <single>true</single>
+    <answernumbering>ABC</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback>
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <incorrectfeedback>
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0">
+      <text>A. Mỹ và trung quốc.</text>
+    </answer>
+    <answer fraction="0">
+      <text>B. Mỹ và anh.</text>
+    </answer>
+    <answer fraction="0">
+      <text>C. Trung quốc và liên xô</text>
+    </answer>
+    <answer fraction="100">
+      <text>D. Mỹ và liên xô.</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <shuffleanswers>true</shuffleanswers>
+    <idnumber/>
+    <hidden>0</hidden>
+    <name>
+      <text>Câu 5. Hội nghị Yalta thực chất là hội nghị</text>
+    </name>
+    <questiontext>
+      <text>Multiple Choice</text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <single>true</single>
+    <answernumbering>ABC</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback>
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <incorrectfeedback>
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0">
+      <text>A. Bàn bạc việc tiêu diệt tận gốc phát xít đức và quân phiệt nhật ở châu âu và châu á.</text>
+    </answer>
+    <answer fraction="0">
+      <text>B. Bàn bạc về việc duy trì hòa bình và an ninh thế giới.</text>
+    </answer>
+    <answer fraction="100">
+      <text>C. Phân chia thành quả chiến thắng giữa các cường quốc thắng trận ở châu âu và châu á.</text>
+    </answer>
+    <answer fraction="0">
+      <text>D. Khẳng định sức mạnh và vị thế siêu cường của mỹ và liên xô.</text>
+    </answer>
+  </question>
+</quiz>
